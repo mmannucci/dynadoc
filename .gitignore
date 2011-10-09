@@ -1,0 +1,7 @@
+.classpath
+target
+.settings
+*.log
+web-app/WEB-INF/classes
+.project
+*.swp
